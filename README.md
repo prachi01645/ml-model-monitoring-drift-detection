@@ -18,9 +18,13 @@ It simulates a dataset, trains a simple model, detects **data drift**, and monit
 3. Run the code and see the **console output** directly.
 
 ## Example OutputDrift Detection (feature mean comparison):
+
 feature1: Train=2.48, New=2.95, Drift Detected: Yes
+
 feature2: Train=1.76, New=1.82, Drift Detected: No
+
 feature3: Train=2.50, New=2.80, Drift Detected: Yes
+
 feature4: Train=2.41, New=2.70, Drift Detected: Yes
 
 New Data Accuracy: 0.62
