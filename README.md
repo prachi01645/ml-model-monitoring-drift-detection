@@ -1,6 +1,4 @@
-ML Model Monitoring & Drift Detection
-
-Project Overview
+ML Model Monitoring & Drift Detection Project Overview
 This project focuses on monitoring deployed machine learning models to detect data drift and performance degradation over time. The goal is to identify silent model failures early using statistical drift detection and performance tracking, similar to real-world production ML systems.
 
 Key Focus Areas
