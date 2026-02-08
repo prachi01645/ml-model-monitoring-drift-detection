@@ -10,6 +10,5 @@ Key Focus Areas
 - Practical, production-oriented ML evaluation# ml-model-monitoring-drift-detection
 Detecting data drift and performance decay in deployed ML models.
 
-Why This Matters
-
+Why This Matters,
 In real-world systems, machine learning models often degrade silently due to changes in user behavior, data distribution, or external factors. Without proper monitoring, these failures can go unnoticed and lead to incorrect decisions. This project addresses that gap by focusing on continuous evaluation and drift detection after deployment.
