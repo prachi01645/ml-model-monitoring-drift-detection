@@ -28,6 +28,7 @@ feature3: Train=2.62, New=1.88, Drift Detected: Yes
 feature4: Train=2.51, New=3.04, Drift Detected: Yes
 
 New Data Accuracy: 0.25
+
 Model performance dropped!
 
 ##Example Output Detection Image:
