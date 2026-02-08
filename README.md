@@ -29,6 +29,8 @@ feature4: Train=2.41, New=2.70, Drift Detected: Yes
 
 New Data Accuracy: 0.62
 Model performance is stable.
+
 ##Example Output Detection Image:
+
 <img width="602" height="226" alt="image" src="https://github.com/user-attachments/assets/670dfaae-2061-4122-a3ed-bb25e862175f" />
 
