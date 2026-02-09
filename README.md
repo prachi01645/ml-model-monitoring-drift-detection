@@ -5,12 +5,27 @@ This project demonstrates a **minimal ML model monitoring system** using **only 
 
 It simulates a dataset, trains a simple model, detects **data drift**, and monitors model performance — all in a single Python script.
 
-## Features
-- Simulates training and test datasets with multiple features  
-- Trains a simple baseline model (majority class predictor)  
-- Detects **data drift** by comparing feature means  
-- Monitors model performance and alerts if performance drops  
-- Fully **self-contained**: can be viewed and run directly from GitHub  
+Tools & Libraries: Python (built-in libraries, no external installations), Pandas, NumPy
+
+Methodology:
+
+Simulated training and test datasets with multiple features.
+
+Trained a simple baseline model (majority class predictor) to simulate predictions.
+
+Implemented data drift detection by comparing feature means between training and new data.
+
+Monitored model performance; triggered alerts when accuracy dropped.
+
+Designed the system to be fully self-contained, easily runnable from GitHub.
+
+Results & Impact:
+
+Detected drift in relevant features within seconds during testing.
+
+Identified model performance drops immediately, demonstrating proactive monitoring.
+
+Provides a foundation for deploying real-time ML monitoring pipelines.  
 
 ## How to Run
 1. Open the file [`model_monitoring_github.py`](./model_monitoring_github.py) on GitHub.  
