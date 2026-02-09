@@ -7,7 +7,7 @@ It simulates a dataset, trains a simple model, detects **data drift**, and monit
 
 Tools & Libraries: Python (built-in libraries, no external installations), Pandas, NumPy
 
-Methodology:
+##Methodology
 
 Simulated training and test datasets with multiple features.
 
@@ -19,7 +19,7 @@ Monitored model performance; triggered alerts when accuracy dropped.
 
 Designed the system to be fully self-contained, easily runnable from GitHub.
 
-Results & Impact:
+##Results & Impact:
 
 Detected drift in relevant features within seconds during testing.
 
