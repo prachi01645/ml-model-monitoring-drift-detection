@@ -1,4 +1,4 @@
-# Model Monitoring & Drift Detection (Pure Python)
+ # Model Monitoring & Drift Detection (Pure Python)
 
 ## Project Overview
 This project demonstrates a **minimal ML model monitoring system** using **only built-in Python libraries** — no installations or downloads required.  
@@ -13,11 +13,11 @@ It simulates a dataset, trains a simple model, detects **data drift**, and monit
 3. Run the code and see the **console output** directly.
    
    ## Methodology
- 1.**Data Simulation:** Created training and inference datasets with multiple features.  
- 2.**Model Training:** Built a baseline model to simulate predictions.  
- 3.**Drift Detection:** Implemented **data drift detection** by comparing feature distributions between training and new data.  
- 4.**Performance Monitoring:** Monitored model accuracy and triggered **alerts** when performance dropped.  
- 5.**Automation:** Designed the system to be **fully self-contained**, easily runnable from GitHub.  
+ 1. **Data Simulation:** Created training and inference datasets with multiple features.  
+ 2. **Model Training:** Built a baseline model to simulate predictions.  
+ 3. **Drift Detection:** Implemented **data drift detection** by comparing feature distributions between training and new data.  
+ 4. **Performance Monitoring:** Monitored model accuracy and triggered **alerts** when performance dropped.  
+ 5. **Automation:** Designed the system to be **fully self-contained**, easily runnable from GitHub.  
 
 ## Results & Impact
 - Detected feature drift **immediately** during testing.  
