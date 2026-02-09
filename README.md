@@ -11,6 +11,7 @@ It simulates a dataset, trains a simple model, detects **data drift**, and monit
 1. Open the file [`model_monitoring_github.py`](./model_monitoring_github.py) on GitHub.  
 2. Copy the code and **paste it into any Python editor or online compiler** (like [replit.com](https://replit.com) or [python.org's console](https://www.python.org/shell/)).  
 3. Run the code and see the **console output** directly.
+   
    ## Methodology
 1. **Data Simulation:** Created training and inference datasets with multiple features.  
 2. **Model Training:** Built a baseline model to simulate predictions.  
